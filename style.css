@@ -63,9 +63,11 @@
     }
 
     .home-image {
+        max-height: 85vh;
         max-width: 40vw;
         padding-top: 60px;
         padding-right: 200px;
+        padding-bottom: 30px;
     }
 
     .image {
