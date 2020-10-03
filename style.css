@@ -71,6 +71,7 @@
     }
 
     .image {
+        max-height: 90vh;
         max-width: 40vw;
         padding-top: 30px;
         padding-bottom: 30px;
